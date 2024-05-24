@@ -1,5 +1,6 @@
 library("ggtree")
 library("ggrepel")
+library("pals")
 library("ggnetwork")
 library(dplyr)
 
